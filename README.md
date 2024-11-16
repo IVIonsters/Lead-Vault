@@ -8,6 +8,7 @@
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
+- [Demo](#demo)
 - [License](#license)
 
 ## **Project Overview**
@@ -51,6 +52,10 @@ Once the extension is installed, you can use the Link Vault extension to manage 
 | <img src="./images/Screenshot 2024-11-15 191823.jpg" width="400"> | <img src="./images/iPhone-13-PRO-127.0.0.1.png" width="200"> |
 | :---------------------------------------------------------------: | :----------------------------------------------------------: |
 |                       Link Vault on Desktop                       |                     Link Vault on Mobile                     |
+
+## **Demo**
+
+![Link Vault Demo](./images/demo.gif)
 
 ## **License**
 
